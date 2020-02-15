@@ -1,0 +1,44 @@
+.d {
+    width: 421px;
+}
+
+.wrap {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    width: 900px;
+    margin: 0 auto;
+}
+
+img {
+    width: 421px;
+    height: 281px;
+}
+
+p {
+    color: rgb(192, 187, 187);
+}
+
+nav {
+    text-align: center;
+}
+
+nav ul {
+    display: flex;
+    list-style: none;
+    width: 900px;
+    margin: 0 auto;
+    text-align: center;
+    display: inline-block;
+    justify-content: space-between;
+    color: mediumaquamarine;
+}
+
+nav ul li {
+    display: inline-block;
+    margin-left: 150px;
+}
+
+a {
+    color: mediumaquamarine;
+}
